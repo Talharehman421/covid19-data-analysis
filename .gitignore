@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Data (raw files are large — don't upload to GitHub)
+data/raw/
+
+# Environment
+.env
+venv/
+anaconda3/
